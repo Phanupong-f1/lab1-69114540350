@@ -1,0 +1,9 @@
+cd %USERPROFILE%
+cd Documents
+mkdir fyp
+cd fyp
+git clone https://github.com/Phanupong-f1/lab1-69114540350.git
+cd lab1-69114540350
+mkdir notes data
+python main.py
+git status
